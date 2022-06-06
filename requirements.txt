@@ -1,8 +1,7 @@
 autopep8==1.6.0
-cffi==1.15.0
-cryptography==37.0.2
+gitdb==4.0.9
+GitPython==3.1.27
+pkg_resources==0.0.0
 pycodestyle==2.8.0
-pycparser==2.21
-scapy==2.4.5
-tk==0.1.0
+smmap==5.0.0
 toml==0.10.2
